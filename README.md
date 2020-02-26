@@ -18,7 +18,7 @@ By the end of this lesson, you'll be able to:
 
 There are two components to this lesson:
 1. myGA module: [Sets](https://my.generalassemb.ly/activities/465)
-2. In-Class Exercise: [Implementing a Set](/exercise)
+2. In-Class Exercise: [Implementing a Set](/exercises)
 
 **To do the in class exercises, you can either...**
 
