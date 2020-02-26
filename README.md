@@ -18,13 +18,13 @@ By the end of this lesson, you'll be able to:
 
 There are two components to this lesson:
 1. myGA module: [Sets](https://my.generalassemb.ly/activities/465)
-2. In-Class Exercise: [Implementing a Set](set.js)
+2. In-Class Exercise: [Implementing a Set](/exercise)
 
 **To do the in class exercises, you can either...**
 
 1. Fork and clone this repository to your local machine and work in the relevant files
 1. Use [this codepen](https://codepen.io/GAmarketing/pen/gEOeZW) provided by the myGA Hash Tables Deep Dive module
-1. Regardless of which way you choose, the exercises are the same (but the codepen has testing)
+1. Regardless of which way you choose, the exercises are the same 
 
 ## Additional Resources
 - The great [set vs. array debate](https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a).
