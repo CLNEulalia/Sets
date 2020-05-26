@@ -23,7 +23,7 @@ There are two components to this lesson:
 **To do the in class exercises, you can either...**
 
 1. Fork and clone this repository to your local machine and work in the relevant files
-1. Use [this codepen](https://codepen.io/GAmarketing/pen/gEOeZW) provided by the myGA Hash Tables Deep Dive module
+1. Use [this codepen](https://codepen.io/GAmarketing/pen/gEOeZW) provided by the myGA Sets module
 1. Regardless of which way you choose, the exercises are the same 
 
 ## Additional Resources
