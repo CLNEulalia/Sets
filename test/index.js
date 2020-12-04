@@ -12,7 +12,7 @@ describe("Set", () => {
     expect(set.values).to.deep.equal([1, 2, 3]);
   });
 
-  it("should have a `length` property", () => {
+  it("should have a `length` getter", () => {
     let set = new Set([1, 2, 3]);
     expect(set.length).to.not.be.undefined;
     expect(set.length).to.equal(3);
