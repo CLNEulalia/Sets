@@ -5,7 +5,7 @@ class Set {
 		// through the array and insert each item into the set
 	}
 
-	length() {
+	get length() {
 		// return the length of the values property
 	}
 
