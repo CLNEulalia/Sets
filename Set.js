@@ -1,8 +1,10 @@
 class Set {
+	// Accept a `list` parameter (default to an empty array).
 	constructor() {
 		// Create a `values` property and set it equal to an empty array
-		// Accept a `list` parameter (default to an empty array). Loop
-		// through the array and insert each item into the set
+		 
+		// Loop through the array and insert each item into the set
+	
 	}
 
 	get length() {
