@@ -3,7 +3,7 @@ class Set {
 	constructor() {
 		// Create a `values` property and set it equal to an empty array
 		 
-		// Loop through the array and insert each item into the set
+		// Loop through the list and insert each item into the set (the array of values)
 	
 	}
 
